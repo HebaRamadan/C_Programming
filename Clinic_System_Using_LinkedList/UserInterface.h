@@ -15,8 +15,8 @@ Node *	CancelReseravation      ( Node * Start	);                //done
 
 
 /* for user mode */
-void      ViewPatientRecord	 ( Node * Start	);		     //done
-void      DisplayReservationSlots( Node * Start	);     		       //done
+void      ViewPatientRecord	 ( Node * Start	);		   //done
+void      DisplayReservationSlots( Node * Start	);     		    //done
 
 
 #endif
