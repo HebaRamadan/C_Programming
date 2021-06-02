@@ -316,7 +316,7 @@ void    ReserveSlotPatient   ( Node * Start	)
 			}
 			else
 			{
-				/* assign slot to 3m elzeffffffffft :( */
+				/* assign slot to Patient :( */
 				ptr -> Slot_State = slot_patient;
 			}
 		}
