@@ -11,7 +11,7 @@ Node *	AddPatientRecord	( Node * Start  );      		      //done
 void	EditInformationPatient  ( Node * Start	);     		        //done
 void	DisplayAvaliableSlots	( Node * Start	);                //done
 void	ReserveSlotPatient	( Node * Start	);                //done
-Node *	CancelReseravation   ( Node * Start	);                //done
+Node *	CancelReseravation     ( Node * Start	);                //done
 
 
 /* for user mode */
